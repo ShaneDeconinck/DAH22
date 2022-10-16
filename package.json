@@ -1,0 +1,21 @@
+{
+  "name": "annaridlerhackathon",
+  "version": "1.0.0",
+  "description": "This contract runs a **Decentralized Autonomous Hackathon (DAH)**. It's built upon the **ERC1155** standard and makes use of **Role-Based Access Control**.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "truffle-contract-size": "^2.0.1"
+  },
+  "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.15"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
